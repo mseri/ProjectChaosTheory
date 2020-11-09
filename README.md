@@ -21,3 +21,4 @@ You should be able to use colab using your univerisity account.
 
 - [Veritasium on Chaos](https://youtu.be/ovJcsL7vyrk)
 - [Hidden Heroines of Chaos - Quantamagazine](https://www.quantamagazine.org/hidden-heroines-of-chaos-ellen-fetter-and-margaret-hamilton-20190520/)
+- [Blog post on differential logistic equation](https://www.mseri.me/thought-on-the-differential-logistic-equation/)
