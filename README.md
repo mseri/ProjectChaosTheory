@@ -15,6 +15,7 @@ You should be able to use colab using your univerisity account.
 - [Triple Linkages](https://youtu.be/aVjj6VE-tNg)
 - [Three body bot](https://twitter.com/ThreeBodyBot)
 - [Geomag magnetic pendulum](https://youtu.be/Qe5Enm96MFQ), [Magnetic pendulum](https://youtu.be/nDTxJlXLoZE)
+- [Laskar's dance of planets](https://youtu.be/Ycs0wHku5Cw?t=2821)
 
 ## Addendum
 
