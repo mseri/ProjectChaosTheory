@@ -4,7 +4,7 @@ To open the simulation for the lecture:
 
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. Click on `GitHub` then paste `https://github.com/mseri/ProjectChaosTheory`
-3. Click on `LogisticPopulation.ipynb`
+3. Click on `LogisticPopulation.ipynb` or any other `ipynb` file you want to work on.
 
 You should be able to use colab using your univerisity account.
 
